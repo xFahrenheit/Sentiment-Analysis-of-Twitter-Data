@@ -1,2 +1,3 @@
 # Sentiment-Analysis-of-Twitter-Data
-This program 
+Sentiment analysis is a machine learning technique that automatically analyzes data and detects the sentiment of text: positive, negative or neutral.
+This program performs the sentiment analysis on twitter tweets.
